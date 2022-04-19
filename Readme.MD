@@ -2,7 +2,7 @@
 
 ## Clone Repo Instructions
 
-- **git clone https://<githubAdress>**
+- **git clone https://(githubAdress)**
 - after clone please **npm install** this will install all what that this project is need automatically
 - **Note:** for run the test you need to run the command **npm run test**
 
