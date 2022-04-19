@@ -1,6 +1,6 @@
 # Algo And Testing
 
-- ![#1589F0](Clone Repo Instructions) `#1589F0`
+## Clone Repo Instructions
 
 - **git clone https://(address)**
 - after clone please **npm install** this will install all what that this project is need automatically
